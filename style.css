@@ -1,0 +1,15 @@
+#first{
+    border: 2px solid blue ;
+}
+
+#second{
+    border-top: 10px dotted rebeccapurple ;
+}
+#third{
+    border: 2px solid red ;
+    margin: 50px 200px 70px 80px ;
+    border-radius: 15px 15px 10px 0;
+    background-color: aqua;
+    padding: 30px 50px 30px 50px ;
+    box-shadow: 10px 10px 50px aquamarine ;
+}
